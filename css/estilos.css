@@ -39,3 +39,11 @@ margin: 0 auto;
 {
    font-size: 20px;
 }
+
+#footer
+{
+   background: #777;
+   color:#DDD;
+   text-align: center;
+   padding: 0.5em;
+}
